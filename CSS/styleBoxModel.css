@@ -1,0 +1,12 @@
+p{
+    width: 50%;
+    border: 2px solid blue;
+    /* padding: 10px; */
+    padding-left: 40px;
+    /* height: 300px; */
+    margin: 100px;
+
+    /* margin: botton top righ left; */
+    /* margin: 20px 40px 500px 100px; */
+    margin: 50px 60px;
+}
